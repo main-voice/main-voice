@@ -1,8 +1,8 @@
 ### Hi there , I'm main-voice👋
-🏫 Currently studying at Tongji University, software engineering
-🗻 Here is my blog [website](https://blogoasis.github.io/), where is my oasis.
-📫 Contact with me through my email: blogOasis@163.com
-😉 Hope you enjoy it!
++ 🏫 Currently studying at Tongji University, software engineering
++ 🗻 Here is my blog [website](https://blogoasis.github.io/), where is my oasis.
+- 📫 Contact with me through my email: blogOasis@163.com
+- 😉 Hope you enjoy it!
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=main-voice)](https://github.com/main-voice/github-readme-stats)
 
