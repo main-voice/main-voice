@@ -7,11 +7,9 @@
 
 - 🔭 I’m currently studying on **TongJi University**
 
-- 🌱 I’m currently learning **Java, Vue**
+- 🌱 I’m currently learning **System**
 
-- 👨‍💻 All of my projects are available at [https://github.com/main-voice?tab=repositories](https://github.com/main-voice?tab=repositories)
-
-- 📝 I regularly write articles on [https://blogoasis.github.io/](https://blogoasis.github.io/)
+- 👨‍💻 All of my projects are available at [repositories](https://github.com/main-voice?tab=repositories)
 
 - 📫 How to reach me **h1964634349@163.com**
 
