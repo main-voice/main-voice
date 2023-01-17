@@ -13,9 +13,7 @@
 
 - 📝 I regularly write articles on [https://blogoasis.github.io/](https://blogoasis.github.io/)
 
-- 📫 How to reach me **blogOasis@163.com**
-
-- 📄 Know about my experiences [https://blogoasis.github.io/](https://blogoasis.github.io/)
+- 📫 How to reach me **h1964634349@163.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
