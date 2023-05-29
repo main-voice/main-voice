@@ -1,15 +1,13 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/4e0cc328008799.56e41b35c50a5.gif)](https://blogoasis.github.io)
-<h1 align="center">Hi 👋, I'm main-voice</h1>
-<h3 align="center">A passionate developer&student from China</h3>
+<h1 align="center">Hi 👋, I'm Alex Peng</h1>
+<h3 align="center">A passionate developer & student from China</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=main-voice&label=Profile%20views&color=0e75b6&style=flat" alt="main-voice" /> </p>
 
 - 🔭 I’m currently studying on **TongJi University**
 
-- 🌱 I’m currently learning **System**
-
-- 👨‍💻 All of my projects are available at [repositories](https://github.com/main-voice?tab=repositories)
+- 🌱 I’m currently learning **System & GPT**
 
 - 📫 How to reach me **h1964634349@163.com**
 
