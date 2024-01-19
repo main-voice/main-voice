@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying on **TongJi University**
 
-- 🌱 I’m currently learning **System & GPT**
+- 🌱 I’m currently learning **Python & LLM**
 
 - 📫 How to reach me **h1964634349@163.com**
 
